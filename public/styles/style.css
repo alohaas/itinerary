@@ -1,0 +1,19 @@
+h1
+{
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 0.5em 2em;
+  margin: 0;
+  color: purple;
+  background-color: white;
+}
+
+
+.map-wrapper
+{
+  height: 100%;
+}
+
+html, body, #map-canvas { height: 100%; margin: 0; padding: 0;}
