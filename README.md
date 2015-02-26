@@ -1,3 +1,3 @@
-#Hapi Parti
+#Itinerary
 
-**Parti is a lightweight boilerplate built on the hapi framework**
+**Itinerary is a location-based to-do list**
